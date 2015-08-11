@@ -1,2 +1,2 @@
 # Coursera_Standford_Algorithm_PartOne
-solutions of standford algorithm(part one) programming questions.
+Solutions of Standford Algorithm(part one)(Professor Tim Roughgarden) programming questions.
